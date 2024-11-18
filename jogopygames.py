@@ -1,6 +1,5 @@
 import pygame, sys, time, random
 
-# Configurações de dificuldade
 dificuldades = {
     'Fácil': 10,
     'Médio': 25,
